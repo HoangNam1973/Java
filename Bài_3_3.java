@@ -121,8 +121,7 @@ public class Bài_3_3 {
 		    dsHangHoa.add(hDM);
 		    dsHangHoa.add(hSS);
 		    dsHangHoa.add(hTP);
-
-        }
+	}
 
         System.out.println("\nDanh sách hàng hóa:");
         for (HangHoa hH : dsHangHoa) {
